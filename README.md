@@ -1,7 +1,8 @@
 <img width="3456" alt="12115F76-BC47-463B-AAE3-48F12987C3E1" src="https://user-images.githubusercontent.com/94555430/173265662-a4db240f-73d9-4484-9d9a-9bfc82f980ba.png">
 
 <h1 align="center">Hi 👋, I'm Celia</h1>
-<h3 align="center">A passionate full-stack developer!
+
+<h3 align="center">A Columbus, OH based software engineer coding full-stack Javascript applications!
 
  🔭 I’m currently working on **100 hours project**
 
