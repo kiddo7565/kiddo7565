@@ -28,7 +28,7 @@
           <h3 align="center">Good Doggo</h3>
           <p align="center">
             <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94555430/174424604-f79051a9-8b79-4d06-835d-118b3dfde7e6.gif" alt="project example"/> </a>
-            <span> <a href="" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               Full stack dog groomiing website
             </p>
@@ -38,7 +38,7 @@
           <h3 align="center">Place Holder</h3>
           <p align="center">
             <a href="" target="_blank" rel="noreferrer"> <img src="" alt="project example"/> </a>
-            <span> <a href="" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://textanalysis.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="https://textanalysis.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               Description goes here
             </p>
@@ -50,7 +50,7 @@
           <h3 align="center">Place Holder</h3>
           <p align="center">
             <a href="" target="_blank" rel="noreferrer"> <img src="" alt="project example"/> </a>
-            <span> <a href="" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://mcudb.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a></span>
+            <span> <a href="" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="https://mcudb.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a></span>
             <p align="center">
               Description goes here
             </p>
@@ -60,7 +60,7 @@
           <h3 align="center">Place Holder</h3>
           <p align="center">
             <a href="" target="_blank" rel="noreferrer"> <img src="" alt="project example"/> </a>
-            <span> <a href="" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://get-nasa-apod.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="https://get-nasa-apod.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               Description goes here
             </p>
