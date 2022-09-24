@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Celia</h1>
 
-<h3 align="center">A Columbus, OH based software engineer coding full-stack Javascript applications!
+<h3 align="center">A Columbus, OH based software engineer coding full-stack Javascript applications AND a UX designer!
 
  🔭 I’m currently working on a **100 hours project**
 
