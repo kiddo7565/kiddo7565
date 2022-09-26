@@ -6,9 +6,9 @@
 
  🔭 I’m currently working on a **Social Media App for Books!**
 
- 🌱 I’m currently learning **JavaScript**
+ 🌱 I’m currently learning **REACT**
  
-  💼 Accepting new clients. Check out my [portfolio!](https://celiabruner.netlify.app/)
+  💼 Accepting new clients. Check out my [portfolio!](https://www.celiabruner.com/)
 
  📫 How to reach me **celia.bruner12@gmail.com**
 
