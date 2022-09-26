@@ -4,7 +4,7 @@
 
 <h3 align="center">A Columbus, OH based software engineer coding full-stack Javascript applications AND a UX designer!
 
- 🔭 I’m currently working on a **100 hours project**
+ 🔭 I’m currently working on a **Social Media App for Books!**
 
  🌱 I’m currently learning **JavaScript**
  
