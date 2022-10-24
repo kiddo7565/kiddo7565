@@ -27,8 +27,8 @@
         <td width="50%">
           <h3 align="center">Good Doggo</h3>
           <p align="center">
-            <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94555430/174424604-f79051a9-8b79-4d06-835d-118b3dfde7e6.gif" alt="project example"/> </a>
-            <span> <a href="" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <a href="https://gooddoggo.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94555430/174424604-f79051a9-8b79-4d06-835d-118b3dfde7e6.gif" alt="project example"/> </a>
+            <span> <a href="https://gooddoggo.netlify.app/" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               Full stack dog groomiing website with the ability to view and schedule services and learn more about the groomers.
             </p>
