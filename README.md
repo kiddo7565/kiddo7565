@@ -79,7 +79,7 @@
         <td width="50%">
           <h3 align="center">Project Name</h3>
           <p align="center">
-            <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94555430/174424604-f79051a9-8b79-4d06-835d-118b3dfde7e6.gif" alt="project example"/> </a>
+            <a href="" target="_blank" rel="noreferrer"> <img src="" alt="project example"/> </a>
             <span> <a href="" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               Project description
@@ -89,7 +89,7 @@
         <td width="50%">
           <h3 align="center">Project Name</h3>
           <p align="center">
-            <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94555430/174462644-b2e29798-0523-4530-91ce-25653163036a.gif" alt="project example"/> </a>
+            <a href="" target="_blank" rel="noreferrer"> <img src="" alt="project example"/> </a>
             <span> <a href="" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               Poject description
@@ -101,7 +101,7 @@
         <td width="50%">
           <h3 align="center">Project Name</h3>
           <p align="center">
-            <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94555430/174462133-6fa425c0-21d8-4c13-a661-813e25bccfd6.gif" alt="project example"/> </a>
+            <a href="" target="_blank" rel="noreferrer"> <img src="" alt="project example"/> </a>
             <span> <a href="" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a></span>
             <p align="center">
               Project description
@@ -111,7 +111,7 @@
         <td width="50%">
           <h3 align="center">Project Name</h3>
           <p align="center">
-            <a href="" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/C6qpqGi.gif" alt="project example"/> </a>
+            <a href="" target="_blank" rel="noreferrer"> <img src="" alt="project example"/> </a>
             <span> <a href="" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               Project description 
