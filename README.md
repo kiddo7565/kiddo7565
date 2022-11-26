@@ -72,49 +72,49 @@
 
 <!-- MORE PROJECTS -->
 
-<h2 align="left"><img src="https://user-images.githubusercontent.com/94555430/174422342-bb898911-f011-4a4d-9f4f-d6ad42126313.png" alt="arrow icon" height="20px"> Projects:</h2>
+<h2 align="left"><img src="https://user-images.githubusercontent.com/94555430/174422342-bb898911-f011-4a4d-9f4f-d6ad42126313.png" alt="arrow icon" height="20px"> More Projects:</h2>
 <div align="center">
   <table>
       <tr>
         <td width="50%">
-          <h3 align="center">Good Doggo</h3>
+          <h3 align="center">Project Name</h3>
           <p align="center">
-            <a href="https://gooddoggo.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94555430/174424604-f79051a9-8b79-4d06-835d-118b3dfde7e6.gif" alt="project example"/> </a>
-            <span> <a href="https://github.com/kiddo7565/good-doggo" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="https://gooddoggo.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94555430/174424604-f79051a9-8b79-4d06-835d-118b3dfde7e6.gif" alt="project example"/> </a>
+            <span> <a href="" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              Full stack dog groomiing website with the ability to view and schedule services and learn more about the groomers.
+              Project description
             </p>
           </p>
         </td>
         <td width="50%">
-          <h3 align="center">Crowned Salon</h3>
+          <h3 align="center">Project Name</h3>
           <p align="center">
-            <a href="https://crownedsalon.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94555430/174462644-b2e29798-0523-4530-91ce-25653163036a.gif" alt="project example"/> </a>
-            <span> <a href="https://github.com/kiddo7565/crowned-salon" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="https://crownedsalon.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94555430/174462644-b2e29798-0523-4530-91ce-25653163036a.gif" alt="project example"/> </a>
+            <span> <a href="" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              Full stack hair salon website with the ability to view and schedule services and learn more about the stylists.
+              Poject description
             </p>
           </p>
         </td>
       </tr>
       <tr>
         <td width="50%">
-          <h3 align="center">Peace Love Yoga</h3>
+          <h3 align="center">Project Name</h3>
           <p align="center">
-            <a href="https://peaceloveyoga.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94555430/174462133-6fa425c0-21d8-4c13-a661-813e25bccfd6.gif" alt="project example"/> </a>
-            <span> <a href="https://github.com/kiddo7565/peace-love-yoga" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="https://peaceloveyoga.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a></span>
+            <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94555430/174462133-6fa425c0-21d8-4c13-a661-813e25bccfd6.gif" alt="project example"/> </a>
+            <span> <a href="" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a></span>
             <p align="center">
-              Full stack yoga  studio website with the ability to view and schedule classes and learn more about the teachers and the studio.
+              Project description
             </p>
           </p>
         </td>
         <td width="50%">
-          <h3 align="center">Nasa APOD api</h3>
+          <h3 align="center">Project Name</h3>
           <p align="center">
-            <a href="https://nasa-apod-space.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/C6qpqGi.gif" alt="project example"/> </a>
-            <span> <a href="https://github.com/kiddo7565/nasa-apod-api" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="https://nasa-apod-space.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <a href="" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/C6qpqGi.gif" alt="project example"/> </a>
+            <span> <a href="" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              Api that allows you to view a Nasa picture of the day. You can select a date or click 'Get random APOD'.
+              Project description 
             </p>
           </p>
         </td>
