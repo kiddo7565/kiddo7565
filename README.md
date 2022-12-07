@@ -12,7 +12,7 @@
 
  📫 How to reach me **celia.bruner12@gmail.com**
 
- ⚡ Fun fact **I am a yoga instructor & read 100 books a year**</h3>
+ ⚡ Fun fact **I am a yoga instructor & read 100+ books a year**</h3>
 
 
 <h3 align="center">Support:</h3>
@@ -79,7 +79,7 @@
         <td width="50%">
           <h3 align="center">Friendly Wordle Clone</h3>
           <p align="center">
-            <a href="https://friendly-wordle-clone.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/a/Su7Yjv1" alt="project example"/> </a>
+            <a href="https://friendly-wordle-clone.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94555430/206064417-4fe4c756-a32e-4d86-8315-cee4f7900455.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/kiddo7565/wordle-clone" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="https://friendly-wordle-clone.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               Project description
