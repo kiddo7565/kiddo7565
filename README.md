@@ -77,10 +77,10 @@
   <table>
       <tr>
         <td width="50%">
-          <h3 align="center">Project Name</h3>
+          <h3 align="center">Friendly Wordle Clone</h3>
           <p align="center">
-            <a href="" target="_blank" rel="noreferrer"> <img src="" alt="project example"/> </a>
-            <span> <a href="" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <a href="https://friendly-wordle-clone.netlify.app/" target="_blank" rel="noreferrer"> <img src="" alt="project example"/> </a>
+            <span> <a href="https://github.com/kiddo7565/wordle-clone" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="https://friendly-wordle-clone.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               Project description
             </p>
