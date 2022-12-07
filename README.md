@@ -82,7 +82,7 @@
             <a href="https://friendly-wordle-clone.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94555430/206064417-4fe4c756-a32e-4d86-8315-cee4f7900455.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/kiddo7565/wordle-clone" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="https://friendly-wordle-clone.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              Project description
+              A clone of the popular game, Wordle. Wordle is a daily word game, that gives players six chances to correctly guess a five letter word. Correct letters will turn green, correct letter in the wrong spot will turn yellow, and incorrect letters will turn grey.
             </p>
           </p>
         </td>
