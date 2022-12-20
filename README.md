@@ -87,12 +87,12 @@
           </p>
         </td>
         <td width="50%">
-          <h3 align="center">Project Name</h3>
+          <h3 align="center">Stacks</h3>
           <p align="center">
-            <a href="" target="_blank" rel="noreferrer"> <img src="" alt="project example"/> </a>
-            <span> <a href="" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94555430/208750498-aaac9443-6143-4f36-b2d9-74dc6bc881a6.gif" alt="project example"/> </a>
+            <span> <a href="https://github.com/kiddo7565/stacks" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=8e6268" alt="button to repository" height ="25px"></a> <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-8e6268?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              Poject description
+              Stacks is a website that allows you to create an account, add your favorite books and include the title, the country the author is from, the book genre, a headline, a review, recommendations, and an image. Users can also see posts from other users, like posts from other users and add bookmarks.
             </p>
           </p>
         </td>
