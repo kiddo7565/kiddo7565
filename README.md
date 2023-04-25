@@ -157,7 +157,7 @@
 <h2 align="left"><img src="https://user-images.githubusercontent.com/94555430/174420960-8eacb23b-c31c-4b24-9def-bccf4f5fb652.png" alt="arrow icon" height="20px"> Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/iwritebadcode12" target="blank"><img align="center" src="https://user-images.githubusercontent.com/94555430/174421019-30075a93-8529-4fdc-b82d-acb1b114553f.png" alt="iwritebadcode12" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/celia-bruner-mba-a02513101/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/94555430/174421106-7cbdaa5d-5511-4c8a-9662-1626ab57f901.png" alt="celiabrunermba" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/celia-bruner-mba/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/94555430/174421106-7cbdaa5d-5511-4c8a-9662-1626ab57f901.png" alt="celiabrunermba" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/kiddo7565"><img align="center" src="https://user-images.githubusercontent.com/94555430/174421145-6c224dd4-1e2b-48a0-9797-1093764b31e5.png" alt="kiddo7565" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:celia.bruner12@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/94555430/174421174-c3d78979-8cf8-4f9f-8a02-17c2b2bc2b34.png" alt="celiabruner" height="40"/></a>
 </p>
