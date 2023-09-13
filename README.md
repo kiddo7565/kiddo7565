@@ -6,7 +6,7 @@
 
  🔭 I’m currently working on a **Social Media App for Books!**
 
- 🌱 I’m currently learning **REACT**
+ 🌱 I’m currently learning **SQL**
  
   💼 Accepting new clients. Check out my [portfolio!](https://www.celiabruner.com/)
 
