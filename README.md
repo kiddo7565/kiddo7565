@@ -8,7 +8,7 @@
 
  🌱 I’m currently learning **SQL**
  
-  💼 Accepting new clients. Check out my [portfolio!](https://www.celiabruner.com/)
+  💼 Accepting new clients. Check out my [portfolio!](https://celiabruner.netlify.app/)
 
  📫 How to reach me **celia.bruner12@gmail.com**
 
